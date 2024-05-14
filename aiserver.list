@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,chatgpt.com
-# 2024-04-15 10:00:44
 DOMAIN, api.statsig.com
 DOMAIN, browser-intake-datadoghq.com
 DOMAIN, cdn.openai.com
