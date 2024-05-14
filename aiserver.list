@@ -13,18 +13,18 @@ DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,chatgpt.com
-DOMAIN, api.statsig.com
-DOMAIN, browser-intake-datadoghq.com
-DOMAIN, cdn.openai.com
-DOMAIN, chat.openai.com
-DOMAIN, chat.openai.com.cdn.cloudflare.net
-DOMAIN, ios.chat.openai.com
-DOMAIN, o33249.ingest.sentry.io
-DOMAIN, openai-api.arkoselabs.com
-DOMAIN, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN, openaicomproductionae4b.blob.core.windows.net
-DOMAIN, production-openaicom-storage.azureedge.net
-DOMAIN, static.cloudflareinsights.com
+DOMAIN-SUFFIX, api.statsig.com
+DOMAIN-SUFFIX, browser-intake-datadoghq.com
+DOMAIN-SUFFIX, cdn.openai.com
+DOMAIN-SUFFIX, chat.openai.com
+DOMAIN-SUFFIX, chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX, ios.chat.openai.com
+DOMAIN-SUFFIX, o33249.ingest.sentry.io
+DOMAIN-SUFFIX, openai-api.arkoselabs.com
+DOMAIN-SUFFIX, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX, openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX, production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX, static.cloudflareinsights.com
 DOMAIN-SUFFIX, algolia.net
 DOMAIN-SUFFIX, auth0.com
 DOMAIN-SUFFIX, chatgpt.com
@@ -45,4 +45,3 @@ DOMAIN-SUFFIX, openaicom.imgix.net
 DOMAIN-SUFFIX, segment.io
 DOMAIN-SUFFIX, sentry.io
 DOMAIN-SUFFIX, stripe.com
-DOMAIN-KEYWORD, openaicom-api
